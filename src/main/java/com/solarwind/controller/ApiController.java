@@ -17,6 +17,8 @@ import java.util.List;
 @RequestMapping(value = "/api")
 public class ApiController {
 
+    // origins, whitelist of allowed origins, "*" means allow all
+    // maxAge, age of cookie in second
     @CrossOrigin(origins = "*", maxAge = 3600)
     @RequestMapping(method = RequestMethod.GET, value = "/users")
     public List<User> getUsers() {
