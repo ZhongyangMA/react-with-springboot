@@ -32,6 +32,7 @@ public class ApiController {
         List list = new ArrayList();
         list.add(user1);
         list.add(user2);
+        System.out.println(list);
 
         return list;
     }
