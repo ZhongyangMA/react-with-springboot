@@ -1,9 +1,7 @@
 # react-deployment-samples
 Sample codes for integrating ReactJS application with Spring Boot, along with an overview article that illustrates the mechanisms of its building and deploying. 
 
-Please visit and leave your valuable comments:
-
-[Integrating ReactJS with Spring Boot](https://zhongyangma.github.io/archivers/Integrating-ReactJS-with-Spring-Boot)
+Please visit and leave your valuable comments: [Integrating ReactJS with Spring Boot](https://zhongyangma.github.io/archivers/Integrating-ReactJS-with-Spring-Boot)
 
 
 
