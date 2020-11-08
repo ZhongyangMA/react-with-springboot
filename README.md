@@ -4,7 +4,6 @@ Sample codes for integrating ReactJS application with Spring Boot, along with an
 Please visit and leave your valuable comments: [Integrating ReactJS with Spring Boot](https://zhongyangma.github.io/archivers/Integrating-ReactJS-with-Spring-Boot)
 
 
-
 # Serving Static Web Contents with Spring Boot
 
 Serving static web contents (such as image, css & js) is necessary when developing a web application. Spring Boot provides excellent supports for it. Its basic configurations can satisfy most of needs in developing, and the developers can also make some custom configurations based on it.
